@@ -1,0 +1,68 @@
+{
+    "pageType": "",
+    "pageName": "",
+    "title": "",
+    "ogTags": {
+        "og_title": "",
+        "og_description": "",
+        "og_image": "",
+        "og_url": ""
+    },
+    "bannerProps": {
+        "text": "",
+        "imageSrc": "",
+        "imageAlt": "",
+        "imgOverlay": ""
+    },
+    "phoneCTA": {
+        "label": "",
+        "href": ""
+    },
+    "chatBot": {
+        "enableChatBot": "",
+        "chatbotDFAgent": ""
+    },
+    "enableGoogleOneTap": "",
+    "menu": {
+        "displayPhone": ""
+    },
+    "customCSSFile": "",
+    "footerProps": {
+        "displayEmail": "",
+        "displayContactNumber": ""
+    },
+    "video": {
+        "videoID": "",
+        "videoStart": 0,
+        "videoEnd": 0,
+        "cc_load_policy": 0
+    },
+    "footerImage": "",
+    "mauticForm": {
+        "emailFormHeader": "",
+        "phoneFormHeader": "",
+        "referralFormHeader": "",
+        "reportPageName": "",
+        "formsets": {
+            "defaultFormset": []
+        }
+    },
+    "pageContent": [
+        {
+            "type": "",
+            "content": "",
+            "attributes": {
+                "style": {}
+            },
+            "children": [
+                {
+                    "type": "",
+                    "content": "",
+                    "attributes": {
+                        "style": {}
+                    }
+                }
+            ]
+        }
+    ]
+}

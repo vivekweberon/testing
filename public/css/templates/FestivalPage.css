@@ -1,0 +1,124 @@
+.bg-dark {
+    background-color: black !important;
+}
+
+.onesignal-bell-container {
+    display: none !important;
+}
+
+.button {
+    display: inline-block;
+    width: 240px;
+    padding: 5px 0px;
+    text-align: center;
+    border-radius: 20px;
+    color: white !important;
+    background: #7bad42;
+    font-weight: bold;
+    font-family: aria-label;
+    font-size: 20px;
+}
+
+/* .icon {
+    padding-left: 10px;
+} */
+
+/* .cta {
+    margin: 5px auto;
+    width: 240px
+} */
+
+/* .googleSignInButton {
+    width: 240px;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    font-weight: bold;
+} */
+
+/* .cta_icon {
+    padding-left: 10px;
+    padding-top: 4px;
+} */
+
+/* .cta_button {
+    display: flex;
+    justify-content: center;
+    padding: 5px 0px;
+    text-align: center;
+    border-radius: 20px;
+    color: white !important;
+    font-weight: bold;
+    background: #7bad42;
+    font-family: aria-label;
+    font-size: 20px;
+} */
+
+/* Custom style for the banner text */
+@media only screen and (max-width: 360px) {
+    #usp {
+        font-size: 2.5rem;
+    }
+}
+
+@media only screen and (min-width: 280px) {
+    #usp div {
+        font-size: 0.4em !important;
+    }
+}
+
+@media only screen and (min-width: 360px) {
+    #usp div {
+        font-size: 0.5em !important;
+    }
+}
+
+@media only screen and (min-width: 440px) {
+    #usp div {
+        font-size: 0.6em !important;
+    }
+}
+
+@media only screen and (min-width: 520px) {
+    #usp div {
+        font-size: 0.65em !important;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    #usp div {
+        font-size: 0.75em !important;
+    }
+}
+
+@media only screen and (min-width: 680px) {
+    #usp div {
+        font-size: 0.85em !important;
+    }
+}
+
+@media only screen and (min-width: 760px) {
+    #usp div {
+        font-size: 0.95em !important;
+    }
+}
+
+@media only screen and (min-width: 800px) {
+    #usp div {
+        font-size: 1em !important;
+    }
+}
+
+@media (orientation: landscape) {
+    #video1 {
+        width: 133vh;
+        height: 75vh;
+    }
+}
+
+@media (orientation: portrait) {
+    #video1 {
+        width: 100vw;
+        height: 57vw;
+    }
+}

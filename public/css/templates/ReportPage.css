@@ -1,0 +1,15 @@
+#greeting {
+    float: right;
+}
+
+#page-wrapper {
+    position: relative;
+}
+
+#note {
+    color: red;
+}
+
+#articlecntm {
+    width: 100%;
+}

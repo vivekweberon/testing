@@ -1,0 +1,35 @@
+{
+    "pageType": "",
+    "pageName": "",
+    "title": "",
+    "ogTags": {
+        "og_title": "",
+        "og_description": "",
+        "og_image": "",
+        "og_url": ""
+    },
+    "video": {
+        "videoID": "",
+        "videoStart": "",
+        "videoEnd": ""
+    },
+    "bannerText": "",
+    "phoneCTA": {
+        "label": "",
+        "href": ""
+    },
+    "enableGoogleOneTap": "",
+    "enableChatBot": "",
+    "customCSSFile": "",
+    "mauticForm": {
+        "controlVideos": "",
+        "timeInterval": "",
+        "nTimes": "",
+        "zDuration": "",
+        "emailFormHeader": "",
+        "phoneFormHeader": "",
+        "formsets": {
+            "defaultFormset": []
+        }
+    }
+}

@@ -1,0 +1,17 @@
+.bgVideo {
+    position: relative;
+    text-align: center;
+    padding: 10px 0px 0px;
+    display: block,
+}
+
+.video1 {
+    pointer-events: auto;
+}
+
+.controlButtonContainer {
+    text-align: center;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: underline,
+}

@@ -1,0 +1,72 @@
+.onesignal-bell-container {
+  display: none !important;
+}
+
+.button {
+  background: #7bad42;
+  font-family: aria-label;
+  font-size: 20px;
+}
+
+.cta_or {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 0px
+}
+
+.row {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.googleSignInButton {
+  width: 240px;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  font-weight: bold;
+}
+
+.cta_icon {
+  padding-left: 10px;
+  padding-top: 4px;
+}
+
+.cta_button {
+  display: flex;
+  justify-content: center;
+  padding: 5px 0px;
+  text-align: center;
+  border-radius: 20px;
+  color: white !important;
+  font-weight: bold;
+  background: #7bad42;
+  font-family: aria-label;
+  font-size: 20px;
+}
+
+#mForm {
+  padding-top: 0px;
+  padding-bottom: 10px;
+}
+
+.form-container {
+  margin: auto;
+  text-align: center
+}
+
+#content {
+  padding-top: 20px;
+  padding-bottom: 0px;
+  background-color: #fafafa;
+}
+
+.header-container {
+  text-align: center;
+}
+
+.header-container h1 {
+  color: #0000A0;
+  padding-bottom: 20px;
+}

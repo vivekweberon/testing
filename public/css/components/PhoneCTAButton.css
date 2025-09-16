@@ -1,0 +1,36 @@
+.cta {
+    margin: 5px auto;
+    width: 320px;
+}
+
+.cta_button {
+    display: flex;
+    justify-content: center;
+    padding: 5px 0px;
+    text-align: center;
+    border-radius: 20px;
+    color: white !important;
+    font-weight: bold;
+    background: #7bad42;
+    font-family: aria-label;
+    font-size: 20px;
+}
+
+.cta_icon {
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+@media only screen and (min-width: 992px) {
+
+    .cta,
+    .cta_button {
+        width: 100%;
+        max-width: 320px;
+    }
+
+    .cta {
+        align-items: center;
+    }
+}

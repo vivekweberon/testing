@@ -1,0 +1,75 @@
+{
+    "pageType": "",
+    "pageName": "",
+    "title": "",
+    "ogTags": {
+        "og_title": "",
+        "og_description": "",
+        "og_image": "",
+        "og_url": ""
+    },
+    "bannerProps": {
+        "text": "",
+        "imageAlt": "",
+        "imageSrc": "",
+        "imgOverlay": ""
+    },
+    "menu": {
+        "displayPhone": ""
+    },
+    "footerProps": {
+        "displayEmail": "",
+        "displayContactNumber": ""
+    },
+    "enableChatBot": "",
+    "customCSSFile": "",
+    "enableGoogleOneTap": "",
+    "mauticForm": {
+        "emailFormHeader": "",
+        "phoneFormHeader": "",
+        "controlVideos": "",
+        "reportPageName": "",
+        "timeInterval": "",
+        "nTimes": "",
+        "zDuration": "",
+        "formsets": {
+            "defaultFormset": []
+        }
+    },
+    "beforeEmailSubmittedContent": [
+        {
+            "type": "",
+            "content": "",
+            "attributes": {
+                "style": {}
+            },
+            "children": [
+                {
+                    "type": "",
+                    "content": "",
+                    "attributes": {
+                        "style": {}
+                    }
+                }
+            ]
+        }
+    ],
+    "afterEmailSubmittedContent": [
+        {
+            "type": "",
+            "content": "",
+            "attributes": {
+                "style": {}
+            },
+            "children": [
+                {
+                    "type": "",
+                    "content": "",
+                    "attributes": {
+                        "style": {}
+                    }
+                }
+            ]
+        }
+    ]
+}

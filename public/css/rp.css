@@ -1,0 +1,253 @@
+/* overwriting the menu items style to remove the uppercase text */
+.menu li {
+    text-transform: none;
+}
+
+/* Style to make reachpersona logo appear on top of the banner with menu  */
+.pp img {
+    position: fixed;
+    z-index: 1003;
+    top: 4px;
+    left: 20px;
+}
+
+.pp,
+.pp img {
+    width: 150px;
+    height: 50px;
+}
+
+/* disabling the z-index to make logo appear on the top of menu */
+.praveenImg {
+    z-index: auto;
+}
+
+.bannerTextContainer {
+    padding-top: 60px;
+}
+
+/*Aligning the menu items in center according to new menu height  */
+nav>ul.container {
+    padding-top: 15px;
+}
+
+/* to adjust the banner text size */
+@media(max-width:850px) {
+    .bannerTextContainer {
+        padding-top: 50px;
+    }
+
+    .bannerTextContainer h1 {
+        font-size: 30px;
+    }
+}
+
+/* overwriting the menu collapse for mobile screen */
+@media only screen and (max-width: 850px) {
+    nav>ul.container {
+        width: 100%;
+        text-align: left;
+        padding-right: 0px;
+        padding-top: 0px;
+        margin-top: 15px;
+        padding-bottom: 0px;
+        background: #ffffff;
+    }
+
+    #headerMenu>nav>ul>li>a {
+        color: #000000;
+        padding: 11px;
+    }
+
+    .mobile-menu li i {
+        color: #ffffff;
+    }
+}
+
+@media screen and (max-width: 850px) {
+
+    nav>ul.leftMenu,
+    nav>ul.rightMenu {
+        float: none;
+    }
+
+    nav>ul.leftMenu {
+        display: none;
+    }
+
+    .mobile-menu>li.leftMenu {
+        padding: 9px 11px;
+        float: left;
+    }
+
+    .mobile-menu>li.leftMenu a {
+        padding: 0px;
+    }
+}
+
+@media(max-width:850px) {
+
+
+    .header-container {
+        padding-top: 41px
+    }
+
+    nav {
+        padding-top: 41px
+    }
+
+    .container {
+        width: 100%
+    }
+
+    .menu {
+        display: none;
+        margin: 0;
+        padding: 0
+    }
+
+    .mobile-menu {
+        display: block
+    }
+
+    .mobile-menu li {
+        display: inline-block;
+        padding: 11px
+    }
+
+    .mobile-menu li a {
+        text-decoration: none;
+        padding: 11px 7px
+    }
+
+    .mobile-menu .language,
+    .social {
+        float: right
+    }
+
+    .menu .remove {
+        display: block
+    }
+
+    .menu #share,
+    .menu .language,
+    .menu .social {
+        display: none
+    }
+
+    .mobile-menu #share {
+        padding: 0
+    }
+
+    .mobile-menu #share a {
+        margin: 7px 3px
+    }
+
+    .menu li {
+        display: block;
+        margin: 0;
+        float: left;
+        width: 100%
+    }
+
+    .menu li a {
+        border-top: 1px solid #e0e0e0;
+        border-bottom: 1px solid #e0e0e0;
+        margin-top: -1px
+    }
+
+    .sub-menu {
+        float: left;
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 100%;
+        padding: 0;
+        max-height: 200px;
+        overflow-y: auto
+    }
+
+    .sub-menu div div {
+        width: 100%;
+        float: left;
+        padding: 0;
+        min-height: 0
+    }
+
+    .sub-menu div div img {
+        display: none
+    }
+
+    .sub-menu div div ul {
+        margin: 0;
+        padding: 0
+    }
+
+    .sub-menu div div ul li {
+        display: block;
+        font-size: 14px
+    }
+
+    .sub-menu div div ul li a {
+        padding: 5px 20px;
+        background: 0 0;
+        font-weight: 400;
+        text-decoration: none;
+        margin: -1px 0 0
+    }
+}
+
+/* removing the shadow in menu */
+#headerMenu>nav {
+    background: none;
+}
+
+/* making the menuItems color black */
+#headerMenu>nav>ul>li>a {
+    color: black;
+}
+
+
+/* changing the active menu color */
+.menu a.active {
+    font-weight: bold;
+}
+
+
+/* increasing the height of navbar menu */
+nav {
+    height: 56px;
+}
+
+
+/* Making the hamburger button color black  */
+.mobile-menu li a,
+.mobile-menu li i {
+    color: black;
+}
+
+.menu li {
+    font-size: 17px;
+}
+
+.example {
+    color: red;
+}
+
+.footer-container {
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+}
+
+
+@media only screen and (max-width: 850px) {
+
+    .pageContent h1 {
+        font-size: 25px;
+        text-wrap: nowrap;
+    }
+
+    .pageContent h3 {
+        font-size: 20px;
+    }
+}
