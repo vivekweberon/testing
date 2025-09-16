@@ -1,0 +1,52 @@
+p {
+	font-size: 18px;
+}
+
+/* Custom style for the banner text */
+@media only screen and (max-width: 279px) {
+	.bannerTextContainer h2 {
+		font-size: 20px !important;
+	}
+}
+
+@media only screen and (min-width: 280px) {
+	.bannerTextContainer h2 {
+		font-size: 22px !important;
+	}
+}
+
+@media only screen and (min-width: 360px) {
+	.bannerTextContainer h2 {
+		font-size: 24px !important;
+	}
+}
+
+@media only screen and (min-width: 440px) {
+	.bannerTextContainer h2 {
+		font-size: 26px !important;
+	}
+}
+
+@media only screen and (min-width: 520px) {
+	.bannerTextContainer h2 {
+		font-size: 28px !important;
+	}
+}
+
+@media only screen and (min-width: 600px) {
+	.bannerTextContainer h2 {
+		font-size: 30px !important;
+	}
+}
+
+@media only screen and (min-width: 680px) {
+	.bannerTextContainer h2 {
+		font-size: 32px !important;
+	}
+}
+
+@media only screen and (min-width: 760px) {
+	.bannerTextContainer h2 {
+		font-size: 34px !important;
+	}
+}
