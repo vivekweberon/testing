@@ -13,7 +13,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const index = props => {
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_templates_WebsitePage__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z, props));
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h1", null, "Testing"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_templates_WebsitePage__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z, props));
 };
 var __N_SSG = true;
 /* harmony default export */ __webpack_exports__["default"] = (index);
